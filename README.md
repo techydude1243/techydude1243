@@ -21,7 +21,11 @@ I am Eager to learn new skills by building hands on project and attending live w
 
 ## Where You can reach me ?
 
-mail-id: k.tripathi.2080@gmail.com
+&nbsp;&nbsp;
+[<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tripathi-krishna)&nbsp;&nbsp;&nbsp;&nbsp; 
+[<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Gmail.svg' alt='mail' height='40'>](mailto:k.tripathi.2080@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;
+
+<sub>Note: The Mail link only works if you have configured how your browser handles `mailto` requests.</sub>
 <!--
 **techydude1243/techydude1243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
